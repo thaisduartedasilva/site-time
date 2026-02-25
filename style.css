@@ -50,15 +50,12 @@ body{
   text-align: center;
   width: 80%;             
   margin: 60px auto;
-}
-#escalacao h2 {
-  margin-bottom: 40px;
-}
-
-#escalacao {
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+#escalacao h2 {
+  margin-bottom: 40px;
 }
 .escalacao_jogadores {
   display: flex;
